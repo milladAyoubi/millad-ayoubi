@@ -196,7 +196,7 @@ const Work = () => {
           </TabsList>
           {/* tabs content */}
           <div className='text-lg xl:mt-8 grid grid-cols-1 lg:grid-cols-3 gap-4'>
-            {filteredProjects.map((project, index) => {
+            {projectData.map((project, index) => {
               return (
                 <TabsContent value={category} key={index}>
                   <ProjectCard project={project} />
