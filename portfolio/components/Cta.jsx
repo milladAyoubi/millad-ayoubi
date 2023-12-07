@@ -19,7 +19,7 @@ const Cta = () => {
       >
         <source src="/hero/video-5.mp4" type="video/mp4" />
       </video>
-      <motion.div variants={fadeIn('down',0.2)} initial="hidden" whileInView={"show"} viewport={{once: false, amount:0.8}} div className='container mx-auto relative z-10 flex items-center justify-center min-h-[20vh] xl:h-[46vh] py-12 xl:py-24'>
+      <motion.div variants={fadeIn('down',0.2)} initial="hidden" whileInView={"show"} viewport={{once: false, amount:0.8}} div className='container mx-auto relative z-10 flex items-center justify-center min-h-[20vh] xl:h-[46vh] py-20 xl:py-24'>
         {/* text & illustration */}
         <div className='grid pt-12 xl:h-[480px] mb-6 '>
           {/* text */}
