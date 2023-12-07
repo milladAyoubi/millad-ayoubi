@@ -5,7 +5,6 @@ import Services from '@/components/Services';
 import Work from '@/components/Work';
 import Cta from '@/components/Cta';
 import Parallax from '@/components/parallax';
-import Featured from '@/components/featured';
 
 
 
