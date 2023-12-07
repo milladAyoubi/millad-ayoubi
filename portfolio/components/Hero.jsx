@@ -91,7 +91,7 @@ high performance and provides your business an exceptional digital experience `}
               containerStyles='absolute top-[75%] -left-[1rem] xl:!w-[230px] floating2'
               icon={<RiTodoFill />}
               endCountNum={15}
-              endCountText=''
+              endCountText='+'
               badgeText='Applications Designed/Built'
             />
             {/* badge 3 */}
