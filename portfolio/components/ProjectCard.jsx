@@ -165,6 +165,7 @@ const ProjectCard = ({ project }) => {
           </div>
         </div>
       </CardHeader>
+      
       <div className='h-full px-8 py-6 flex flex-col gap-y-2'>
        
         <h4 className='h4 mb-1'>{project.name}</h4>
