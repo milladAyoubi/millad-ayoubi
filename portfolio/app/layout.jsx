@@ -3,7 +3,6 @@ import './globals.css';
 
 // compoenents
 import Header from '@/components/Header';
-import Footer from '@/components/Footer';
 // theme provider
 import { ThemeProvider } from '@/components/ThemeProvider';
 
@@ -21,7 +20,6 @@ export default function RootLayout({ children }) {
         <ThemeProvider attribute='class' defaultTheme='light'>
           <Header />
           {children}
-       
         </ThemeProvider>
       </body>
     </html>
