@@ -110,7 +110,7 @@ const About = () => {
           <div className='hidden xl:flex flex-1 relative '>
             <DevImg
               className='rounded-md'
-              containerStyles='floating  w-[505px] h-[505px] rounded-md bg-no-repeat relative'
+              containerStyles='floating dark:bg-about_shape_dark w-[505px] h-[505px] rounded-md bg-no-repeat relative'
               imgSrc='/about/about_img1.png'
             />
           </div>
@@ -135,7 +135,7 @@ const About = () => {
                 <TabsContent value='personal'>
                   <div className='text-center xl:text-left'>
                     <h3 className='h3 mb-4'>
-                      Unmatched Service Quality for Over 10 Years
+                     I Enjoy Designing, Building and Crafting Digital Solutions.
                     </h3>
                     <p className='subtitle max-w-xl mx-auto xl:mx-0'>
                       I specialize in crafting intuitive websites with
