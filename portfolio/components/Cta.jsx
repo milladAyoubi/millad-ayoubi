@@ -72,7 +72,7 @@ const Cta = () => {
             iconsStyles='text-primary dark:text-white/70 text-[20px] hover:text-dark1/60 dark:hover:text-primary transition-all'
           />
           {/* copyright */}
-          <div className='text-muted-foreground'>
+          <div className='text-muted-foreground text-center'>
             Copyright &copy; Millad Ayoubi. All rights not reserved.
           </div>
         </div>
