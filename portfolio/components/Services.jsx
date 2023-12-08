@@ -37,9 +37,9 @@ const Services = () => {
   <div className='container mx-auto'>
   <motion.div 
                         variants={fadeIn('down',0)}
-                        initial='hidden'
+                        initial=''
                         whileInView={'show'}
-                        viewport={{once: false, amount: 0.6}} className='flex flex-col items-center gap-x-10 lg:flex-row backdrop-blur-sm bg-white rounded-3xl p-8' >
+                        viewport={{once: false, amount: 0.6}} className='flex m-auto my-12 flex-col items-center gap-x-10 lg:flex-row backdrop-blur-sm bg-white rounded-3xl p-8' >
    <div className='max-w-[550px]  '>
    <p className='bg-dark1/10 inline-block text-dark1 font-bold py-2 px-6 rounded-full my-4  gap-x-1 sideToSide transition-all hover:bg-dark1 hover:text-white'>My Expertise</p>
 
@@ -52,7 +52,7 @@ const Services = () => {
 
   <div className='mt-12 lg:mt-0' data-aos="fade-left" data-aos-delay="1000"data-aos-duration="1200">
 
-    <div className='flex items-center gap-6 py-5 px-10  transition-all rounded-xl   hover:shadow-lg   hover:bg-dark1/90 hover:!text-white'>
+    <div className='flex flex-col lg:flex-row lg:items-center gap-6 py-5 lg:px-10 px-2 transition-all rounded-xl   hover:shadow-lg   hover:bg-dark1/90 hover:!text-white'>
       <div className='text-4xl shake'>
       ✍
       </div>
@@ -64,7 +64,7 @@ const Services = () => {
     </div>
 
 
-    <div className='flex text-dark1 items-center gap-6 py-5 px-10 buissness-icon-container transition-all  hover:shadow-lg rounded-xl  hover:bg-dark1/90 hover:!text-white'>
+    <div className='flex flex-col lg:flex-row lg:items-center  text-dark1  gap-6 py-5 lg:px-10 px-2 buissness-icon-container transition-all  hover:shadow-lg rounded-xl  hover:bg-dark1/90 hover:!text-white'>
       <div className='text-4xl floating2'>
       💻
       </div>
@@ -76,8 +76,8 @@ const Services = () => {
     </div>
 
 
-    <div className='flex items-center gap-6 py-5 px-10 buissness-icon-container transition-all rounded-xl  hover:shadow-lg hover:bg-dark1/90 hover:!text-white'>
-      <div className='text-4xl grow'>
+    <div className='flex flex-col lg:flex-row lg:items-center  gap-6 py-5 lg:px-10 px-2 buissness-icon-container transition-all rounded-xl  hover:shadow-lg hover:bg-dark1/90 hover:!text-white'>
+      <div className='text-4xl floating2'>
       🎯
       </div>
 
