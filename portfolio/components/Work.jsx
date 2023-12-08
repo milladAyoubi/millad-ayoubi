@@ -95,7 +95,7 @@ const projectData = [
     name: 'Acedemic Website UX Research',
     description:
       'The following project is a study into how students interact with their respective institutions academic websites. It follows up on the research phase, quantifying the data obtained for further analysis.',
-    link: '/',
+    link: 'https://www.figma.com/file/jHwuqDWUCbwOD1sfo9IpPW/A4?type=design&node-id=0%3A1&mode=design&t=hZ6bj18StGAXRUkv-1',
     github: '/',
     stack:['User Reaserch','Data Analysis','Quantitative Research']
   },
