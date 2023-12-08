@@ -123,7 +123,7 @@ const projectData = [
   {
     image: '/work/Pyro.png',
     category: 'fullstack',
-    name: 'Pyro Andriod Application',
+    name: 'Pyro Android Application',
     description:
       'After completing their exercise, users can enter the calories they have burned for the workout through the application. They must enter the calories they burned, their type of exercise performed, and the duration. ',
     link: 'https://github.com/milladAyoubi/Chat-Application',
