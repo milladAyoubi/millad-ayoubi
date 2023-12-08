@@ -140,6 +140,8 @@ const projectData = [
   },
 ];
 const ProjectCard = ({ project }) => {
+
+  
   return (
     <Card className='group overflow-hidden relative bottom-none'>
       <CardHeader className='p-0'>
