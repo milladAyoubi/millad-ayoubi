@@ -172,7 +172,7 @@ const ProjectCard = ({ project }) => {
        
         <h4 className='h4 mb-1'>{project.name}</h4>
         <p className='text-muted-foreground text-lg'>{project.description}</p>
-       
+
         <div className='text-sm flex flex-row flex-wrap gap-x-4 mt-4'>
            {/* {project.stack.map((project, index) => {
             

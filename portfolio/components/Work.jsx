@@ -85,7 +85,7 @@ const projectData = [
     name: 'Fitness UX Case Study',
     description:
       'One of the biggest challenges for Gen Z is their sedentary lifestyle. This Case Study was designed so that it helps/assists Gen Z achieve their fitness goals by offering services tailored to their fitness needs.',
-    link: 'https://www.figma.com/proto/DCt5Ri5Zj8E3UoVlf3TpYN/Weight-A-Minute-Fitness-Case-Study?page-id=0%3A1&type=design&node-id=9-274&viewport=-317%2C3156%2C0.26&t=0i951ZB0TMLuAK8y-1&scaling=scale-down-width&starting-point-node-id=9%3A274&mode=design',
+    link: 'https://www.figma.com/file/DCt5Ri5Zj8E3UoVlf3TpYN/Weight-A-Minute-Fitness-Case-Study?type=design&node-id=9%3A274&mode=design&t=cdB2NBq8aOtLuKKx-1',
     github: '/',
     stack:['UX/UI Design Process','Design Thinking','UX Research','Figma Prototyped']
   },
@@ -113,9 +113,9 @@ const projectData = [
   {
     image: '/work/Venti.png',
     category: 'frontend',
-    name: 'Unova Chat Application',
+    name: 'Venti Shopping Website',
     description:
-      'A UI challenge given to me on Figma by Cozey. I had to teach myself the varients of figma in order to be able to sucessfully complete the interactive prototype.',
+      'One of my first website I built. Hightlights the basics and fundementals of webs design, developement and good UX/UI principles. It is also mobile responsive.',
     link: 'https://venti-website.netlify.app/',
     github: '/',
     stack:['JavaScript','HTML5','CSS3','Mobile Responsive','Bootstrap 5']
@@ -134,7 +134,7 @@ const projectData = [
   {
     image: '/work/Aequitas-1.png',
     category: 'ux/ui',
-    name: 'Unova Chat Application',
+    name: 'Aequitas UI Redesign',
     description:
       'Aequitas Partners is a prominent search firm specializing in Growth Stage companies within the Healthcare Technology sector. The companys website serves as a crucial touchpoint for potential clients.',
     link: 'https://www.figma.com/file/SZDd6xb2St2dbPsHMRTBoU/Aquitas-UI-Redesign?type=design&node-id=14%3A48&mode=design&t=NyF2RQbJpaOkZk9A-1',
@@ -144,7 +144,7 @@ const projectData = [
   {
     image: '/work/Cozey.png',
     category: 'ux/ui',
-    name: 'Unova Chat Application',
+    name: 'Cozey UI Challenge',
     description:
       'A UI challenge given to me on Figma by Cozey. I had to teach myself the varients of figma in order to be able to sucessfully complete the interactive prototype.',
     link: 'https://www.figma.com/file/HCjI6467uEc5fiQO6l01hK/COZEY-DESIGN-CHALLENGE?type=design&node-id=0%3A1&mode=design&t=Geib0IrUd9RdoDhJ-1',
