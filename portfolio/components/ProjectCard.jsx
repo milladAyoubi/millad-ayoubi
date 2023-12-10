@@ -146,7 +146,7 @@ const ProjectCard = ({ project }) => {
     <Card className='group overflow-hidden relative bottom-none'>
       <CardHeader className='p-0'>
         {/* image */}
-        <div className='relative  w-[100%] h-[200px]  xxsm:h-[220px] xsm:h-[300px] md:h-[440px] lg:h-[200px] xl:h-[280px] flex items-center justify-center  bg-tertiary dark:bg-secondary/40 xl:bg-work_project_bg_light xl:dark:bg-work_project_bg_dark xl:bg-[110%] xl:bg-no-repeat overflow-hidden'>
+        <div className='relative  w-[100%] h-[200px]  xxsm:h-[220px] xsm:h-[300px] md:h-[440px] lg:h-[190px] xl:h-[280px] flex items-center justify-center  bg-tertiary dark:bg-secondary/40 xl:bg-work_project_bg_light xl:dark:bg-work_project_bg_dark xl:bg-[110%] xl:bg-no-repeat overflow-hidden'>
           <Image
             className='hover:scale-110 !w-[100%] !h-[100%] transition-all absolute bottom-0 shadow-2xl'
             src={project.image}

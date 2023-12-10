@@ -34,7 +34,7 @@ const servicesData = [
 const Services = () => {
   return (
     <section  className='section lg:py-[110px] flex items-center justify-center h-100 bg-para bg-fixed bg-cover' id="features">
-  <div className='container mx-auto'>
+  <div className='p-2 mx-auto w-[90%]'>
   <motion.div 
                         variants={fadeIn('down',0)}
                         initial=''

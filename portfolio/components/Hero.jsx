@@ -36,9 +36,9 @@ const Hero = () => {
       >
         <source src="/hero/video-5.mp4" type="video/mp4" />
       </video>
-      <motion.div variants={fadeIn('down',0.6)} initial="hidden" whileInView={"show"} viewport={{once: false, amount:0.8}} className='container mx-auto relative z-10 flex items-center justify-center h-[82vh] py-12 xl:py-24'>
+      <motion.div variants={fadeIn('down',0.6)} initial="hidden" whileInView={"show"} viewport={{once: false, amount:0.8}} className='container mx-auto relative z-10 flex items-center justify-center h-[82vh] py-12 xl:py-24 '>
 
-        <div className='flex flex-col xl:flex-row justify-between gap-x-72'>
+        <div className='flex flex-col xl:flex-row justify-between gap-x-72 '>
           {/* text */}
           <div className='flex max-w-[600px] flex-col justify-center mx-auto xl:mx-0 text-center xl:text-left'>
            
