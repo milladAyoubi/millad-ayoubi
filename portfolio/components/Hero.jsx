@@ -27,7 +27,7 @@ const Hero = () => {
     loop:{},
   })
   return (
-    <section className='relative overflow-hidden' id="#home">
+    <section className='relative overflow-hidden ' id="#home">
       <video
         className='absolute opacity-10 top-0 left-0 z-[-1] object-cover w-full h-full'
         autoPlay
@@ -36,14 +36,19 @@ const Hero = () => {
       >
         <source src="/hero/video-5.mp4" type="video/mp4" />
       </video>
-      <motion.div variants={fadeIn('down',0.6)} initial="hidden" whileInView={"show"} viewport={{once: false, amount:0.8}} className='container mx-auto relative z-10 flex items-center justify-center h-[82vh] py-12 xl:py-24 '>
+      <motion.div variants={fadeIn('down',0.6)} initial="hidden" whileInView={"show"} viewport={{once: false, amount:0.8}} className='container xl:my-0  my-32 mx-auto relative z-10 flex items-center justify-center h-[82vh] py-12 xl:py-24'>
 
-        <div className='flex flex-col xl:flex-row justify-between gap-x-72 '>
+        <div className='flex flex-col  xl:flex-row justify-between gap-x-72'>
           {/* text */}
-          <div className='flex max-w-[600px] flex-col justify-center mx-auto xl:mx-0 text-center xl:text-left'>
-           
-            <div className='text-sm uppercase font-semibold mb-4 text-primary tracking-[4px] '>
 
+
+          <div className='flex max-w-[600px] flex-col justify-center mx-auto  xl:mx-0 text-center xl:text-left'>
+           
+            <div className='text-sm uppercase font-semibold mb-4 text-primary tracking-[4px] m-auto '>
+            <DevImg
+              containerStyles='xl:hidden relative bottom-6 w-[220px] h-[220px] bg-no-repeat '
+              imgSrc='/hero/MA_Image5.png'
+            />
                   MILLAD AYOUBI 
             </div>
             <h1 className='h1 mb-4  xl:w-[800px] '>UX/UI Designer & Full Stack Web Developer </h1>
