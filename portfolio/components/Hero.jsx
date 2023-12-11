@@ -44,12 +44,12 @@ const Hero = () => {
 
           <div className='flex max-w-[600px] flex-col justify-center mx-auto  xl:mx-0 text-center xl:text-left'>
            
-            <div className='text-sm uppercase font-semibold mb-4 text-primary tracking-[4px] m-auto '>
+            <div className='text-sm uppercase font-semibold mb-4 text-primary tracking-[4px] '>
             <DevImg
-              containerStyles='xl:hidden xl:text-left relative bottom-6 w-[220px] h-[220px] bg-no-repeat '
+              containerStyles='xl:hidden relative bottom-6 w-[220px] h-[220px] bg-no-repeat m-auto  '
               imgSrc='/hero/MA_Image5.png'
             />
-                  MILLAD AYOUBI 
+               MILLAD AYOUBI
             </div>
             <h1 className='h1 mb-4  xl:w-[800px] '>UX/UI Designer & Full Stack Web Developer </h1>
        
