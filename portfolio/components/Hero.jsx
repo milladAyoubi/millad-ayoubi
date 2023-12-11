@@ -46,7 +46,7 @@ const Hero = () => {
            
             <div className='text-sm uppercase font-semibold mb-4 text-primary tracking-[4px] m-auto '>
             <DevImg
-              containerStyles='xl:hidden relative bottom-6 w-[220px] h-[220px] bg-no-repeat '
+              containerStyles='xl:hidden xl:text-left relative bottom-6 w-[220px] h-[220px] bg-no-repeat '
               imgSrc='/hero/MA_Image5.png'
             />
                   MILLAD AYOUBI 
