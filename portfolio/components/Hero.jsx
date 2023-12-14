@@ -56,7 +56,7 @@ const Hero = () => {
       
             
             <p className='subtitle max-w-[490px] mx-auto xl:mx-0 '>
-            {`Specializing in design and developement of digital products that is user centric,
+            {`Specializing in the design and development of digital products that is user centric,
 high performance and provides your business an exceptional digital experience `}
             </p>
             {/* buttons */}
