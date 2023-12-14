@@ -175,18 +175,15 @@ const ProjectCard = ({ project }) => {
         <p className='text-muted-foreground text-lg'>{project.description}</p>
 
         <div className='text-sm flex flex-row flex-wrap gap-x-4 mt-4'>
-            {project.stack.map((project, index) => {
-            
-              return (
-                <div key={index}>
-                    
-
-                    <Badge className='text-sm font-medium mb-2 top-4 left-5'>
-                {project}
-              </Badge>
-                  </div>
-              );
-            })}
+        {project && project.stack && project.stack.map((item, index) => {
+    return (
+        <div key={index}>
+            <Badge className='text-sm font-medium mb-2 top-4 left-5'>
+                {item}
+            </Badge>
+        </div>
+    );
+})}
           </div>
         
       </div>
