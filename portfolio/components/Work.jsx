@@ -122,7 +122,7 @@ const projectData = [
     name: "Fitness UX Case Study",
     description:
       "One of the biggest challenges for Gen Z is their sedentary lifestyle. This Case Study was designed so that it helps/assists Gen Z achieve their fitness goals by offering services tailored to their fitness needs.",
-    link: "https://www.figma.com/file/DCt5Ri5Zj8E3UoVlf3TpYN/Weight-A-Minute-Fitness-Case-Study?type=design&node-id=9%3A274&mode=design&t=cdB2NBq8aOtLuKKx-1",
+    link: "https://dribbble.com/shots/23324919-Weight-A-Minute-Fitness-UX-Case-Study",
     github: "/",
     stack: [
       "UX/UI Design Process",
@@ -176,7 +176,7 @@ const projectData = [
     name: "Pyro Android Application",
     description:
       "After completing their exercise, users can enter the calories they have burned for the workout through the application. They must enter the calories they burned, their type of exercise performed, and the duration. ",
-    link: "https://github.com/milladAyoubi/Chat-Application",
+    link: "https://github.com/milladAyoubi/PyRo-Fitness-Application-",
     github: "/",
     stack: ["Java", "Android Development", "FireBase", "SQLite", "QA Testing"],
   },
