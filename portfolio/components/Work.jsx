@@ -148,7 +148,7 @@ const projectData = [
     name: "Unova Chat Application",
     description:
       "Unova Chat is a real-time chat application built with Node.js, Express.js, HTML, CSS, JavaScript, and Socket.io. With Unova Chat, users can join a specific room and exchange messages with others in the same room. ",
-    link: "/",
+    link: "https://github.com/milladAyoubi/Chat-Application",
     github: "/",
     stack: [
       "NodeJS",
