@@ -66,6 +66,25 @@ const projectData = [
       "Framer Motion",
     ],
   },
+
+  {
+    image: "/work/NetBook.png",
+    category: "frontend",
+    name: "NetBook Solutions Website",
+    description:
+      "NetBook Solutions provides digital services for its users and memebrs to efficatianly share, view and collaborate together. Built from a Figma prototype in ReactJS. Mobile Optimized.",
+    link: "https://netbook-solutions.netlify.app/",
+    github: "/",
+    stack: [
+      "React.js",
+      "JavaScript",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Figma Designed",
+      "Mobile Optimized",
+    ],
+  },
+
   {
     image: "/work/Task.png",
     category: "ux/ui",
@@ -87,7 +106,7 @@ const projectData = [
     category: "frontend",
     name: "Artemis Payment Website",
     description:
-      "a brochure website showcasing personally crafted, cutting-edge UI/UX designs optimized in Figma.Focusing optimal website performance and ease of navigation.",
+      "A brochure website showcasing personally crafted, cutting-edge UI/UX designs optimized in Figma.Focusing optimal website performance and ease of navigation.",
     link: "https://artemis-payment.netlify.app//",
     github: "/",
     stack: [
