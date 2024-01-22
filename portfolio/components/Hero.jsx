@@ -50,7 +50,7 @@ const Hero = () => {
               MILLAD AYOUBI
             </div>
             <h1 className="h1 mb-4 lg:w-[800px] ">
-              UX/UI Designer & Full Stack Web Developer{" "}
+              UX/UI Designer & Frontend Web Developer{" "}
             </h1>
 
             <p className="subtitle max-w-[490px] mx-auto lg:mx-0 ">
