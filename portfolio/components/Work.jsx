@@ -86,21 +86,21 @@ const projectData = [
   },
 
   {
-    image: "/work/Task.png",
+    image: "/work/Sangoma Team Collaboration Page.png",
     category: "ux/ui",
-    name: "2DO Task Manager Project",
+    name: "Sangoma Team Page Redesign",
     description:
-      "2DO is a intuitive task manager application that focuses on providing struggling students with the means to consistently get their daily tasks completed. ",
-    link: "https://www.figma.com/file/R3KRcDMFxue1SLmIBKHBaJ/2DO%3A-Task-Manager-Application?type=design&node-id=1-2520&mode=design",
+      "This UX/UI test involves redesigning Sangoma's Team Collaboration Page for an Enhanced User Experience, Improved Information Presentation, Clear Value Proposition and Seamless Navigation.",
+    link: "https://www.figma.com/file/2whWdQZ3wfMcTe95kyplaN/Sangoma-UI-Analysis?type=design&node-id=0%3A1&mode=design&t=ysFwpW38zMzzxIsW-1",
     github: "/",
     stack: [
-      "UX Research",
-      "UX/UI Process",
-      "User Task Study",
-      "Mobile First Design",
-      "Interactive Prototype",
+      "UX/UI Design Process",
+      "Website Redesign",
+      "Usability Improvments",
+      "Prototyping",
     ],
   },
+
   {
     image: "/work/Artemis.png",
     category: "frontend",
@@ -118,6 +118,24 @@ const projectData = [
       "UX Optimized",
     ],
   },
+
+  {
+    image: "/work/Task.png",
+    category: "ux/ui",
+    name: "2DO Task Manager Project",
+    description:
+      "2DO is a intuitive task manager application that focuses on providing struggling students with the means to consistently get their daily tasks completed. ",
+    link: "https://www.figma.com/file/R3KRcDMFxue1SLmIBKHBaJ/2DO%3A-Task-Manager-Application?type=design&node-id=1-2520&mode=design",
+    github: "/",
+    stack: [
+      "UX Research",
+      "UX/UI Process",
+      "User Task Study",
+      "Mobile First Design",
+      "Interactive Prototype",
+    ],
+  },
+
   {
     image: "/work/Bobahub-8.png",
     category: "frontend",
@@ -150,6 +168,7 @@ const projectData = [
       "Figma Prototyped",
     ],
   },
+
   {
     image: "/work/2DO-3.png",
     category: "ux/ui",
