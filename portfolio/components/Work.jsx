@@ -39,7 +39,7 @@ const projectData = [
     name: "RENEW eCommerce UX Case Study",
     description:
       "Utilizing Design Thinking, this project empathizes with users, defines challenges, ideates innovative solutions, prototypes, and iteratively tests improvements.",
-    link: "https://dribbble.com/shots/23319265-Renew-Case-Study",
+    link: "https://dribbble.com/shots/23756267-Renew-Ecommerce-Case-Study",
     github: "/",
     stack: [
       "UX/UI Design Process",
