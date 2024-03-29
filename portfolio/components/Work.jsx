@@ -17,6 +17,24 @@ import { Pagination } from "swiper/modules";
 
 const projectData = [
   {
+    image: "/work/Vibrant_01.png",
+    category: "fullstack",
+    name: "VIBRANT Agency Website",
+    description:
+      "Vibrant is a leading north american commercial marketing firm. We help our partners succeed by delivering engaging experiences and sales capabilities.",
+    link: "https://vibrant.marketing/",
+    github: "/",
+    stack: [
+      "Mobile Responsive",
+      "SEO",
+      "Javascript",
+      "PHP",
+      "Full Stack",
+      "UX/UI Design Process",
+    ],
+  },
+
+  {
     image: "/work/Ionic-2.png",
     category: "fullstack",
     name: "Ionic Eccomerce Website",
@@ -90,7 +108,7 @@ const projectData = [
     category: "ux/ui",
     name: "Sangoma Team Page Redesign",
     description:
-      "This UX/UI test involves redesigning Sangoma's Team Collaboration Page for an Enhanced User Experience, Improved Information Presentation, Clear Value Proposition and Seamless Navigation.",
+      "This UX/UI redesign involves Sangoma's Team Collaboration Page for an Enhanced User Experience, Improved Information Presentation, Clear Value Proposition and Seamless Navigation.",
     link: "https://www.figma.com/file/2whWdQZ3wfMcTe95kyplaN/Sangoma-UI-Analysis?type=design&node-id=0%3A1&mode=design&t=ysFwpW38zMzzxIsW-1",
     github: "/",
     stack: [
