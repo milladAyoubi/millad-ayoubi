@@ -17,7 +17,7 @@ import { Pagination } from "swiper/modules";
 
 const projectData = [
   {
-    image: "/work/Vibrant_01.png",
+    image: "/work/Vibrant_01.PNG",
     category: "fullstack",
     name: "VIBRANT Agency Website",
     description:
