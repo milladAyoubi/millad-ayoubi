@@ -40,7 +40,7 @@ const Hero = () => {
         initial="hidden"
         whileInView={"show"}
         viewport={{ once: false, amount: 0.8 }}
-        className="container xl:my-0  my-32 mx-auto relative z-10 flex items-center justify-center xl:h-[82vh] py-12 xl:py-24"
+        className="container md:h-[38vh] xl:my-0 my-32 mx-auto relative z-10 flex items-center justify-center xl:h-[82vh] py-12 xl:py-24"
       >
         <div className="flex flex-row justify-between gap-x-48 xl:gap-x-72">
           {/* text */}
