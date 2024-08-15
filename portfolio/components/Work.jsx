@@ -25,11 +25,11 @@ const projectData = [
     link: "https://vibrant.marketing/",
     github: "/",
     stack: [
+      "Wordpress",
       "Mobile Responsive",
       "SEO",
+      "Analytics",
       "Javascript",
-      "PHP",
-      "Full Stack",
       "UX/UI Design Process",
     ],
   },
